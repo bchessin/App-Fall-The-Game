@@ -1,2 +1,1 @@
-# App-Fall-The-Game
-# App-Fall-The-Game
+This is my first iOS Game programmed in 2011-2012. It features some simple doodle jump like physics where the main character falls down apps until he hits the top or the bottom of the screen. Uses Cocos2D and some physics algorithms I developed myself. Assets and sounds are all made by freelance workers that helped me on that front for the game. This code does not in any way reflect the way I program now as this was one of my first projects.
