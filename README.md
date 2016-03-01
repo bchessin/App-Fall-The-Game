@@ -1,4 +1,9 @@
-This is my first iOS Game programmed in 2011-2012. It features some simple doodle jump like physics where the main character falls down apps until he hits the top or the bottom of the screen. Uses Cocos2D and some physics algorithms I developed myself. Assets and sounds are all made by freelance workers that helped me on that front for the game. This code does not in any way reflect the way I program now as this was one of my first projects.
+**This is my first iOS Game programmed in 2011-2012. The coding style and practices from this app are not indicative of my current programming. It has been 3 years since this game has been created.** 
+
+App Fall - The Game features some simple doodle jump like physics where the main character falls down apps until he hits the top or the bottom of the screen. The game uses Cocos2D and Box2D (physics library) and some physics algorithms I also developed myself. Assets and sounds are all made by freelance workers that I hired specifically for this game. This app was a huge cornerstone in my programming career, it helped me learn new functions/features that iOS can handle and also helped me build some upcoming apps I am currently programming. 
+
+Cocos2D: https://github.com/cocos2d
+Box2D: http://box2d.org/
 
 ![alt tag](http://a4.mzstatic.com/us/r30/Purple/v4/98/52/b1/9852b1e5-f987-fcc1-c9ae-14b0d41520be/screen568x568.jpeg)
 ![alt tag](http://a3.mzstatic.com/us/r30/Purple/v4/6f/69/54/6f695469-cae2-7587-f6d4-413d4a8508c4/screen568x568.jpeg)
